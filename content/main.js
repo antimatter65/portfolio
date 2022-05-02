@@ -5,7 +5,7 @@ export const attributes = {
       link: '/#portofolio',
       text: 'My work',
     },
-    heading: "I'm Paco Cu, and I create",
+    heading: "I'm Dominic Owen Moss (anitmater65), and make",
     image: '/img/hero.jpeg',
     secondButton: { icon: 'whatsapp', link: '/#contact', text: 'Contact' },
     social: {
@@ -17,6 +17,7 @@ export const attributes = {
       { text: 'fast websites.' },
       { text: 'beautiful logos.' },
       { text: 'great experiences.' },
+      { text: 'the future'},
     ],
   },
   about: {
